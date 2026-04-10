@@ -1,0 +1,4 @@
+google.com
+www.amazon.com
+github.com
+10.0.0.254
